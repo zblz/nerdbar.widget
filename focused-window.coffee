@@ -20,11 +20,11 @@ update: (output, el) ->
 style: """
   -webkit-font-smoothing: antialiased
   color: #d5c4a1
-  font: 10px Input
+  font: 12px "Dejavu Sans Mono for Powerline"
   height: 16px
   left: 10px
   overflow: hidden
   text-overflow: ellipsis
-  top: 6px
+  top: 2px
   width: auto
 """

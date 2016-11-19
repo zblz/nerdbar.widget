@@ -32,8 +32,8 @@ icon: (output) =>
 
 style: """
   -webkit-font-smoothing: antialiased
-  font: 9px Input
-  top: 7px
+  font: 12px "Dejavu Sans Mono for Powerline"
+  top: 2px
   right: 160px
   color: #d5c4a1
 """
