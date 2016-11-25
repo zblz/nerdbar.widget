@@ -25,6 +25,6 @@ style: """
   left: 10px
   overflow: hidden
   text-overflow: ellipsis
-  top: 2px
+  bottom: 2px
   width: auto
 """

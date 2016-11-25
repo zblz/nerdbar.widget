@@ -22,5 +22,5 @@ style: """
   color: #d5c4a1
   font: 12px "Dejavu Sans Mono for Powerline"
   right: 70px
-  top: 2px
+  bottom: 2px
 """
